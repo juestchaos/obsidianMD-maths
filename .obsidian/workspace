@@ -7,8 +7,11 @@
         "id": "a02fde5ae50893c0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Knowledge/Acceleration (stub).md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -85,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge/Acceleration (stub).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge/Acceleration (stub).md"
+              }
             }
           }
         ]
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge/Acceleration (stub).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,12 +144,12 @@
   },
   "active": "a02fde5ae50893c0",
   "lastOpenFiles": [
+    "Knowledge/Acceleration (stub).md",
     "asdf;lkj.md",
     "Knowledge/Integration.md",
     "Knowledge/Fields (physics).md",
     "Knowledge/Gravity.md",
     "Knowledge/Vectors.md",
-    "Knowledge/Acceleration (stub).md",
     "Knowledge/Derivative.md",
     "School/MAS IA1.md",
     "School/MAS Unit 1+2 exam revision.md",

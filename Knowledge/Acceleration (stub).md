@@ -1,7 +1,7 @@
 ---
 aliases: [deceleration, accelerate]
 ---
-#physics #stub 
+#physics #incomplete 
 
 # Acceleration
 
