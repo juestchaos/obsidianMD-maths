@@ -1,3 +1,3 @@
 # Alex's Obsidian Vault
 
-Dummy text in `README.md`
+This is an amalgamation of all of the things I have learnt since I started using Obsidian, and some of the things I learnt before that.
