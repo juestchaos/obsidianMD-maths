@@ -1,0 +1,3 @@
+#stub 
+
+# Intersecting Tangents Theorem

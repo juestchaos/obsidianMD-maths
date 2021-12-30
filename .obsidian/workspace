@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "7c2167187404b5e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a02fde5ae50893c0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7414c13462831078",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b55ff828674115c",
+        "type": "tabs",
+        "dimension": 73.73540856031128,
+        "children": [
+          {
+            "id": "fae5df55924f4cbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27fff0d4287e7b04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec34e76d7445bfda",
+        "type": "tabs",
+        "dimension": 26.26459143968872,
+        "children": [
+          {
+            "id": "5dc5f3e7aa28c5d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "right": {
+    "id": "44eb25f8d7f1527e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cdbed5abba76617",
+        "type": "tabs",
+        "dimension": 62.38390092879257,
+        "children": [
+          {
+            "id": "b80fa47239ac13db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c3bc71b0037c931a",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "013800e2ef275e81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b0a25d9c5d8f1ee",
+        "type": "tabs",
+        "dimension": 37.61609907120743,
+        "children": [
+          {
+            "id": "7985da83fe3e8667",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.44956970214844
+  },
+  "active": "a02fde5ae50893c0",
+  "lastOpenFiles": [
+    "asdf;lkj.md",
+    "Knowledge/Integration.md",
+    "Knowledge/Fields (physics).md",
+    "Knowledge/Gravity.md",
+    "Knowledge/Vectors.md",
+    "Knowledge/Acceleration (stub).md",
+    "Knowledge/Derivative.md",
+    "School/MAS IA1.md",
+    "School/MAS Unit 1+2 exam revision.md",
+    "Knowledge/Gaussian elimination.md"
+  ]
+}
