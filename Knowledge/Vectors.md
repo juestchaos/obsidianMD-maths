@@ -5,6 +5,8 @@ aliases: [vector]
 
 #physics 
 
+For vectors in three dimensions, see [[3D vectors]]
+
 # Vectors
 
 A vector is a quantity that can be fully described by both a direction and a magnitude. Examples include:

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a02fde5ae50893c0",
+        "id": "4e0b70682142e94a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Electromagnetism.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Electromagnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Electromagnetism.md"
               }
             }
           }
@@ -130,9 +130,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Electromagnetism.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -142,17 +142,17 @@
     "direction": "horizontal",
     "width": 204.44956970214844
   },
-  "active": "a02fde5ae50893c0",
+  "active": "4e0b70682142e94a",
   "lastOpenFiles": [
-    "README.md",
-    "Velocity (stub).md",
-    "Vector (physics).md",
-    "Scalar (stub).md",
-    "Newton's Second Law.md",
-    "Knowledge/Newton's Laws of Motion.md",
-    "Momentum.md",
-    "Laws vs. Theories.md",
-    "Gravity.md",
-    "Knowledge/Gravity.md"
+    "Electromagnetism.md",
+    "Knowledge/3D vectors.md",
+    "Spec IA2.md",
+    "Knowledge/Vectors.md",
+    "Knowledge/Coulomb's Law.md",
+    "Knowledge/Electric potential.md",
+    "Knowledge/Volts.md",
+    "Knowledge/Integration.md",
+    "School/ENG IA1.md",
+    "README.md"
   ]
 }

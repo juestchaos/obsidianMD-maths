@@ -7,7 +7,9 @@
   "obsidian-discordrpc",
   "obsidian-latex-environments",
   "obsidian-hider",
-  "obsidian-smart-typography",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "improved-vimcursor",
+  "obsidian-vimrc-support",
+  "obsidian-git"
 ]
