@@ -32,12 +32,17 @@
     "2022/1/7": 110,
     "2022/1/8": 205,
     "2022/1/9": 179,
-    "2022/1/10": 17
+    "2022/1/10": 17,
+    "2022/1/11": 78
   },
   "todaysWordCount": {
-    "Electromagnetism.md": {
-      "initial": 2,
-      "current": 19
+    "Knowledge/Integration.md": {
+      "initial": 212,
+      "current": 230
+    },
+    "Area between curves.md": {
+      "initial": 0,
+      "current": 60
     }
   }
 }

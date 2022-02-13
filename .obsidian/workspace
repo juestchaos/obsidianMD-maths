@@ -7,11 +7,8 @@
         "id": "4e0b70682142e94a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electromagnetism.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -88,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,12 +108,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electromagnetism.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "c04b52477e4504ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1b0a25d9c5d8f1ee",
@@ -130,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +146,8 @@
   },
   "active": "4e0b70682142e94a",
   "lastOpenFiles": [
+    "Area between curves.md",
+    "Knowledge/Integration.md",
     "Electromagnetism.md",
     "Knowledge/3D vectors.md",
     "Spec IA2.md",
@@ -151,8 +155,6 @@
     "Knowledge/Coulomb's Law.md",
     "Knowledge/Electric potential.md",
     "Knowledge/Volts.md",
-    "Knowledge/Integration.md",
-    "School/ENG IA1.md",
-    "README.md"
+    "School/ENG IA1.md"
   ]
 }

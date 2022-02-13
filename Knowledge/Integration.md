@@ -15,10 +15,13 @@ $$ \int ax^n\ dx = \frac{ax^{n+1}}{n+1} $$
 Integration is distributive over addition and subtraction:
 $$ \int f(x) + g(x) \ dx = \int f(x)\ dx + \int g(x)\ dx $$
 
+Integration is not affected by whether a constant is integrated, ie:
+$$ \int kf(x) = k\int f(x) $$
+
 ## Reverse chain rule
 The reverse chain rule is used to find the integral of composite functions where the [[Derivative#Chain rule|chain rule]] would be used to find their derivatives.
 $$ \int f(g(x)) = \frac{\int f(g(x))dx}{g'(x)} $$
-$$ \int f(g(x)) = \int f(g(x)) \cdot \frac 1{g'(x)} $$
+$$ \int f(g(x)) = \int f(g(x)) dx \cdot \frac 1{g'(x)} $$
 
 # Definite integrals
 A definite integral an integral within a specified domain, expressed as
