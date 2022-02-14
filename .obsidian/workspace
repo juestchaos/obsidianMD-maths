@@ -7,8 +7,11 @@
         "id": "4e0b70682142e94a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Knowledge/Vectors.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -85,12 +88,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -108,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge/Vectors.md"
+              }
             }
           },
           {
@@ -119,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1b0a25d9c5d8f1ee",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +152,15 @@
   },
   "active": "4e0b70682142e94a",
   "lastOpenFiles": [
-    "Area between curves.md",
-    "Knowledge/Integration.md",
-    "Electromagnetism.md",
-    "Knowledge/3D vectors.md",
-    "Spec IA2.md",
     "Knowledge/Vectors.md",
-    "Knowledge/Coulomb's Law.md",
+    "Knowledge/Vector cross product.md",
+    "Knowledge/vector dot product.md",
+    "School/MAS Unit 1+2 exam revision.md",
     "Knowledge/Electric potential.md",
-    "Knowledge/Volts.md",
-    "School/ENG IA1.md"
+    "Knowledge/Matrix operations.md",
+    "Knowledge/Functions.md",
+    "Knowledge/Matrices.md",
+    "School/Spec IA2 - Exam.md",
+    "Knowledge/Area between curves.md"
   ]
 }

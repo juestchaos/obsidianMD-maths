@@ -1,5 +1,5 @@
 ---
-tags: [specialist]
+tags: [specialist, coreConcept]
 aliases: [matrix]
 ---
 

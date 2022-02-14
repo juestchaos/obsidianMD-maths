@@ -33,16 +33,22 @@
     "2022/1/8": 205,
     "2022/1/9": 179,
     "2022/1/10": 17,
-    "2022/1/11": 78
+    "2022/1/11": 78,
+    "2022/1/14": 5,
+    "2022/1/15": 176
   },
   "todaysWordCount": {
-    "Knowledge/Integration.md": {
-      "initial": 212,
-      "current": 230
+    "Vector cross product.md": {
+      "initial": 2,
+      "current": 154
     },
-    "Area between curves.md": {
-      "initial": 0,
-      "current": 60
+    "Knowledge/Vector cross product.md": {
+      "initial": 154,
+      "current": 155
+    },
+    "Knowledge/Vectors.md": {
+      "initial": 132,
+      "current": 155
     }
   }
 }

@@ -4,12 +4,15 @@
   "obsidian-admonition",
   "obsidian-daily-stats",
   "table-editor-obsidian",
-  "obsidian-discordrpc",
   "obsidian-latex-environments",
   "obsidian-hider",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-minimal-settings",
   "improved-vimcursor",
   "obsidian-vimrc-support",
-  "obsidian-git"
+  "obsidian-git",
+  "persistent-graph",
+  "dataview",
+  "obsidian-frontmatter-tag-suggest",
+  "obsidian-linter"
 ]
