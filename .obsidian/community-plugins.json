@@ -4,14 +4,22 @@
   "obsidian-admonition",
   "obsidian-daily-stats",
   "table-editor-obsidian",
-  "obsidian-discordrpc",
   "obsidian-latex-environments",
   "obsidian-hider",
-  "obsidian-smart-typography",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-minimal-settings",
+<<<<<<< HEAD
   "obsidian-excalidraw-plugin",
   "persistent-graph",
   "obsidian-linter",
   "obsidian-git"
+=======
+  "improved-vimcursor",
+  "obsidian-vimrc-support",
+  "obsidian-git",
+  "persistent-graph",
+  "dataview",
+  "obsidian-frontmatter-tag-suggest",
+  "obsidian-linter"
+>>>>>>> origin/main
 ]

@@ -1,6 +1,7 @@
 {
   "nodePositions": [
     {
+<<<<<<< HEAD
       "id": "Knowledge/Acceleration (stub).md",
       "x": 475.41357421875,
       "y": 256.3807373046875
@@ -462,4 +463,467 @@
     }
   ],
   "automaticallyRestoreNodePositions": false
+=======
+      "id": "Knowledge/3D vectors.md",
+      "x": 23.655630111694336,
+      "y": -62.3966178894043
+    },
+    {
+      "id": "Knowledge/Acceleration (stub).md",
+      "x": -155.15625,
+      "y": -109.83360290527344
+    },
+    {
+      "id": "Knowledge/Binding Energy.md",
+      "x": -765.9164428710938,
+      "y": 548.78759765625
+    },
+    {
+      "id": "Knowledge/Complex Numbers.md",
+      "x": 538.0556030273438,
+      "y": -546.2633056640625
+    },
+    {
+      "id": "Knowledge/Coulomb's Law.md",
+      "x": -132.68603515625,
+      "y": 210.43226623535156
+    },
+    {
+      "id": "Knowledge/De Moivre's Theorem.md",
+      "x": 693.5030517578125,
+      "y": -509.5130310058594
+    },
+    {
+      "id": "Knowledge/Derivative.md",
+      "x": -89.56625366210938,
+      "y": -393.95538330078125
+    },
+    {
+      "id": "Knowledge/Distance (physics).md",
+      "x": -501.7982177734375,
+      "y": 191.41427612304688
+    },
+    {
+      "id": "displacement",
+      "x": -622.9832153320312,
+      "y": 125.61231994628906
+    },
+    {
+      "id": "Knowledge/Dominance matrices.md",
+      "x": 165.81240844726562,
+      "y": 419.1167907714844
+    },
+    {
+      "id": "Knowledge/Einstein's mass-energy equivalence equation.md",
+      "x": -746.799560546875,
+      "y": 378.4492492675781
+    },
+    {
+      "id": "Knowledge/Electric potential.md",
+      "x": 919.1763916015625,
+      "y": 240.21450805664062
+    },
+    {
+      "id": "Knowledge/Fields (physics).md",
+      "x": -246.0790557861328,
+      "y": -5.075403690338135
+    },
+    {
+      "id": "Knowledge/Force.md",
+      "x": -47.64719009399414,
+      "y": 295.0076599121094
+    },
+    {
+      "id": "Knowledge/Forces on the inclined plane.md",
+      "x": 593.9500732421875,
+      "y": -38.6371955871582
+    },
+    {
+      "id": "Knowledge/Functions.md",
+      "x": 173.10018920898438,
+      "y": -536.8814697265625
+    },
+    {
+      "id": "Fundamental Theorem of Algebra",
+      "x": 105.45818328857422,
+      "y": -644.2018432617188
+    },
+    {
+      "id": "Knowledge/Gaussian elimination.md",
+      "x": 411.1994934082031,
+      "y": 168.67007446289062
+    },
+    {
+      "id": "Knowledge/Gravity.md",
+      "x": -293.273193359375,
+      "y": 129.6461181640625
+    },
+    {
+      "id": "Knowledge/Identity and inverse matrices.md",
+      "x": 485.91583251953125,
+      "y": 446.5666198730469
+    },
+    {
+      "id": "matrix",
+      "x": 608.526123046875,
+      "y": 470.7675476074219
+    },
+    {
+      "id": "Knowledge/Induction.md",
+      "x": 489.9732666015625,
+      "y": 21.173433303833008
+    },
+    {
+      "id": "Knowledge/Integration.md",
+      "x": -33.90103530883789,
+      "y": -522.4711303710938
+    },
+    {
+      "id": "Knowledge/Intersecting tangents theorem.md",
+      "x": 371.6481628417969,
+      "y": 1.194757342338562
+    },
+    {
+      "id": "Knowledge/Inverse trigonometric functions.md",
+      "x": 258.31768798828125,
+      "y": -400.2833251953125
+    },
+    {
+      "id": "Knowledge/Ionising radiation.md",
+      "x": -343.35455322265625,
+      "y": -778.864990234375
+    },
+    {
+      "id": "Knowledge/Joules.md",
+      "x": -531.9807739257812,
+      "y": 599.0135498046875
+    },
+    {
+      "id": "Knowledge/Kepler's laws of planetary motion.md",
+      "x": 791.7056884765625,
+      "y": 535.0188598632812
+    },
+    {
+      "id": "Knowledge/Laws vs. Theories.md",
+      "x": -416.8098449707031,
+      "y": 899.2968139648438
+    },
+    {
+      "id": "Knowledge/Leslie matrices.md",
+      "x": 272.3846130371094,
+      "y": 522.2005615234375
+    },
+    {
+      "id": "Recursion",
+      "x": 357.9841613769531,
+      "y": 628.593994140625
+    },
+    {
+      "id": "matrix exponentiation",
+      "x": 217.3440704345703,
+      "y": 653.4552001953125
+    },
+    {
+      "id": "Knowledge/Locii.md",
+      "x": 478.86553955078125,
+      "y": -407.02740478515625
+    },
+    {
+      "id": "Knowledge/Mass defect.md",
+      "x": -851.3949584960938,
+      "y": 316.9215087890625
+    },
+    {
+      "id": "protons",
+      "x": -907.5347290039062,
+      "y": 422.95867919921875
+    },
+    {
+      "id": "neutrons",
+      "x": -893.6177368164062,
+      "y": 195.1261444091797
+    },
+    {
+      "id": "Knowledge/Mass.md",
+      "x": -300.6457824707031,
+      "y": 318.7271423339844
+    },
+    {
+      "id": "Knowledge/Matrices.md",
+      "x": 248.509033203125,
+      "y": 326.69757080078125
+    },
+    {
+      "id": "Knowledge/Matrix operations.md",
+      "x": 389.30072021484375,
+      "y": 375.4230651855469
+    },
+    {
+      "id": "Knowledge/Matrix transformations.md",
+      "x": 295.8623046875,
+      "y": 135.5592803955078
+    },
+    {
+      "id": "Knowledge/Metre.md",
+      "x": -432.98291015625,
+      "y": 386.23223876953125
+    },
+    {
+      "id": "Knowledge/Momentum.md",
+      "x": -264.1207275390625,
+      "y": -308.1738586425781
+    },
+    {
+      "id": "Knowledge/Newton's Laws of Motion.md",
+      "x": -376.5330505371094,
+      "y": 43.23971176147461
+    },
+    {
+      "id": "special relativity",
+      "x": -482.92681884765625,
+      "y": -69.37442016601562
+    },
+    {
+      "id": "Knowledge/PHY Unit 1 + 2 revision.md",
+      "x": -191.8631134033203,
+      "y": -831.8607177734375
+    },
+    {
+      "id": "Nuclear decay",
+      "x": -118.7003173828125,
+      "y": -940.4000854492188
+    },
+    {
+      "id": "Refractive Index",
+      "x": -307.35333251953125,
+      "y": -893.3118896484375
+    },
+    {
+      "id": "Knowledge/Permutations.md",
+      "x": 575.4385375976562,
+      "y": -157.1400604248047
+    },
+    {
+      "id": "Knowledge/Proof.md",
+      "x": 473.78607177734375,
+      "y": -220.8560333251953
+    },
+    {
+      "id": "Knowledge/Radians.md",
+      "x": 260.1119079589844,
+      "y": -814.329833984375
+    },
+    {
+      "id": "Knowledge/Rational functions.md",
+      "x": 279.2756042480469,
+      "y": -141.1273956298828
+    },
+    {
+      "id": "Knowledge/Roots of a complex number.md",
+      "x": 627.0048828125,
+      "y": -344.36297607421875
+    },
+    {
+      "id": "Knowledge/SI Units.md",
+      "x": -265.6081848144531,
+      "y": 537.4186401367188
+    },
+    {
+      "id": "Volt",
+      "x": -350.9229431152344,
+      "y": 672.578369140625
+    },
+    {
+      "id": "Ampere",
+      "x": -128.65383911132812,
+      "y": 649.684814453125
+    },
+    {
+      "id": "Second",
+      "x": -235.31442260742188,
+      "y": 704.5592041015625
+    },
+    {
+      "id": "Kelvin",
+      "x": -118.24557495117188,
+      "y": 530.1845092773438
+    },
+    {
+      "id": "Mole",
+      "x": -383.9541931152344,
+      "y": 557.2305908203125
+    },
+    {
+      "id": "Candela",
+      "x": -196.57308959960938,
+      "y": 439.2831115722656
+    },
+    {
+      "id": "Knowledge/Scalar (stub).md",
+      "x": -115.46173095703125,
+      "y": 8.548810958862305
+    },
+    {
+      "id": "Knowledge/Sets.md",
+      "x": 354.68963623046875,
+      "y": -555.4895629882812
+    },
+    {
+      "id": "Knowledge/Snell's Law.md",
+      "x": -242.84495544433594,
+      "y": -713.3640747070312
+    },
+    {
+      "id": "Knowledge/The unit circle.md",
+      "x": 435.236083984375,
+      "y": -652.7232666015625
+    },
+    {
+      "id": "Knowledge/Trigonometric functions.md",
+      "x": 261.8597106933594,
+      "y": -677.7321166992188
+    },
+    {
+      "id": "Knowledge/Vectors.md",
+      "x": 8.104376792907715,
+      "y": 60.22331619262695
+    },
+    {
+      "id": "Knowledge/Velocity.md",
+      "x": -129.15562438964844,
+      "y": -240.0052947998047
+    },
+    {
+      "id": "Knowledge/Volts.md",
+      "x": 852.72900390625,
+      "y": 340.12908935546875
+    },
+    {
+      "id": "Knowledge/Waves.md",
+      "x": -56.79534912109375,
+      "y": -832.9103393554688
+    },
+    {
+      "id": "Knowledge/electron volts.md",
+      "x": -656.9725952148438,
+      "y": 498.5560302734375
+    },
+    {
+      "id": "Knowledge/usability principles (stub).md",
+      "x": -826.76416015625,
+      "y": -184.7952117919922
+    },
+    {
+      "id": "Knowledge/vector dot product.md",
+      "x": 184.96726989746094,
+      "y": -24.29788589477539
+    },
+    {
+      "id": "README.md",
+      "x": -652.7952270507812,
+      "y": -222.48004150390625
+    },
+    {
+      "id": "School/202111021307 - Analysing staging in performance.md",
+      "x": -507.5505676269531,
+      "y": -537.433349609375
+    },
+    {
+      "id": "School/202111040910.md",
+      "x": 795.6172485351562,
+      "y": 127.01835632324219
+    },
+    {
+      "id": "School/202111041343 - Quiz.md",
+      "x": 902.817138671875,
+      "y": -190.93894958496094
+    },
+    {
+      "id": "School/202111051227.md",
+      "x": 265.58935546875,
+      "y": 905.5889892578125
+    },
+    {
+      "id": "School/202111091237.md",
+      "x": 558.5933837890625,
+      "y": -822.2013549804688
+    },
+    {
+      "id": "School/202111100925 - MUX IA1.md",
+      "x": -775.8988647460938,
+      "y": -437.0376892089844
+    },
+    {
+      "id": "School/202111231305.md",
+      "x": -582.9259643554688,
+      "y": -725.130126953125
+    },
+    {
+      "id": "School/DIS IA1.md",
+      "x": 454.3413391113281,
+      "y": 824.0075073242188
+    },
+    {
+      "id": "School/DIS Unit 2 exam feedback.md",
+      "x": -877.2409057617188,
+      "y": -293.6483154296875
+    },
+    {
+      "id": "School/ENG IA1.md",
+      "x": 85.70771026611328,
+      "y": 910.9740600585938
+    },
+    {
+      "id": "School/MAS IA1.md",
+      "x": 630.6915283203125,
+      "y": 719.8501586914062
+    },
+    {
+      "id": "School/MAS Unit 1+2 exam revision.md",
+      "x": 413.8916320800781,
+      "y": -111.11363220214844
+    },
+    {
+      "id": "absolute value functions",
+      "x": 354.5768737792969,
+      "y": -234.5457305908203
+    },
+    {
+      "id": "Temp/2021 quiz questions.md",
+      "x": -109.40159606933594,
+      "y": 939.9857177734375
+    },
+    {
+      "id": "Templates/MathJax functions.md",
+      "x": -728.3426513671875,
+      "y": -602.658935546875
+    },
+    {
+      "id": "Templates/Physics preamble.md",
+      "x": -916.4219360351562,
+      "y": -38.68570327758789
+    },
+    {
+      "id": "Templates/Specialist preamble.md",
+      "x": 943.067626953125,
+      "y": -10.204273223876953
+    },
+    {
+      "id": "Knowledge/Area between curves.md",
+      "x": -163.8491973876953,
+      "y": -551.3170166015625
+    },
+    {
+      "id": "Knowledge/Electromagnetism.md",
+      "x": -554.865966796875,
+      "y": -378.17626953125
+    },
+    {
+      "id": "School/Spec IA2 - Exam.md",
+      "x": 883.0335083007812,
+      "y": -385.6181335449219
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+>>>>>>> origin/main
 }

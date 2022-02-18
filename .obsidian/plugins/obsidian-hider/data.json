@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "frameless": false,
   "hideRibbon": false,
+=======
+  "frameless": true,
+  "hideRibbon": true,
+>>>>>>> origin/main
   "hideStatus": true,
   "hideScroll": true,
   "hideTooltips": true,

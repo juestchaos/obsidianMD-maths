@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 tags: coreConcept, specialist
+=======
+tags: [stub, coreConcept]
+>>>>>>> origin/main
 aliases: [vector]
 ---
 
