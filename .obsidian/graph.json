@@ -8,7 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-<<<<<<< HEAD
       "query": "tag:#incomplete",
       "color": {
         "a": 1,
@@ -62,25 +61,11 @@
       "color": {
         "a": 1,
         "rgb": 16371698
-=======
-      "query": "tag:index",
-      "color": {
-        "a": 1,
-        "rgb": 14606418
-      }
-    },
-    {
-      "query": "tag:coreConcept",
-      "color": {
-        "a": 1,
-        "rgb": 5431406
->>>>>>> origin/main
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-<<<<<<< HEAD
   "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 1.30625,
   "lineSizeMultiplier": 3.49609375,
@@ -91,16 +76,4 @@
   "linkDistance": 191,
   "scale": 1.303411662848888,
   "close": false
-=======
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.34236184909671,
-  "collapse-forces": false,
-  "centerStrength": 0.740236450584485,
-  "repelStrength": 15.0571200850159,
-  "linkStrength": 1,
-  "linkDistance": 80,
-  "scale": 0.7153391368798507,
-  "close": true
->>>>>>> origin/main
 }

@@ -11,11 +11,8 @@ The vector cross product is a [[Vectors|vector]] operation expressed as $\vec u\
 2. It is mutually anticlockwise from $\vec u \rightarrow \vec v \rightarrow \vec u \times \vec v$
 3. $|u\times v|$ is the area of the parallelogram with sides of $\vec u$ and $\vec v$. This means that this magnitude is equal to $|u||v|\sin\theta$, where $\sin\theta$ is the perpendicular height of the parallelogram, relative to the angle $\theta$ between $u$ and $v$.
 
-<<<<<<< HEAD
 ![[Drawing 2022-02-15 09.24.20.excalidraw]]
 
-=======
->>>>>>> origin/main
 Thus, the cross product of two vectors is equal to:
 
 $$ \vec u \times \vec v = |\vec u||\vec v|\sin\theta \hat r$$

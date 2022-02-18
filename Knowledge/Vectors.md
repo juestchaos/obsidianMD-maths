@@ -1,13 +1,9 @@
 ---
-<<<<<<< HEAD
 tags: coreConcept, specialist
-=======
-tags: [stub, coreConcept]
->>>>>>> origin/main
 aliases: [vector]
 ---
 
-#physics 
+#physics
 
 For vectors in three dimensions, see [[3D vectors]]
 
@@ -41,4 +37,5 @@ Polar form: multiply the magnitude by a scalar
 The [[vector dot product]] is a vector operation which returns a scalar.
 
 ### Cross product
+
 The [[Vector cross product]] is a vector operation which returns a vector perpendicular to its two inputs
