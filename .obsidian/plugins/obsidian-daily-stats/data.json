@@ -19,20 +19,20 @@
     "2021/10/26": 9,
     "2021/10/29": 0,
     "2021/11/5": 0,
-    "2021/11/30": 0
+    "2021/11/30": 0,
+    "2022/1/15": 261,
+    "2022/1/16": 254,
+    "2022/1/17": 362,
+    "2022/1/18": 4
   },
   "todaysWordCount": {
-    "Knowledge/Gravity.md": {
-      "initial": 278,
-      "current": 278
+    "Knowledge/Shapes in 3D.md": {
+      "initial": 240,
+      "current": 244
     },
-    "Knowledge/Fields (physics).md": {
-      "initial": 74,
-      "current": 74
-    },
-    "Knowledge/Acceleration (stub).md": {
-      "initial": 104,
-      "current": 104
+    "Knowledge/Vector cross product.md": {
+      "initial": 164,
+      "current": 163
     }
   }
 }

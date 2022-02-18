@@ -1,3 +1,8 @@
+---
+aliases: 
+tags: meta
+---
+# Mathjax functions
 $$
 \newcommand{\cis}{\operatorname{cis}}
 \newcommand{\C}{\Bbb C}

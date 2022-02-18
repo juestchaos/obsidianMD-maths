@@ -1,6 +1,10 @@
-## Operations
+---
+aliases: 
+tags: specialist
+---
+# Operations
 
-### Addition
+## Addition
 
 It's easy. Add the elements in the same position.
 
@@ -8,17 +12,17 @@ $$\left[\begin{matrix}3 & 4 \\ 1 & 2 \end{matrix}\right] + \left[\begin{matrix} 
 
 Addition is not defined for matrices with different dimensions.
 
-### Negation
+## Negation
 
 Negate all the elements.
 
-### Subtract
+## Subtract
 
 Subtract all the elements (negate then add).
 
-### Multiplication
+## Multiplication
 
-#### Scalar multiplication
+### Scalar multiplication
 
 It's easy, since it's repeated addition.
 
@@ -26,7 +30,7 @@ $$k\left[\begin{matrix}a & b \\ c & d \end{matrix}\right] = \left[\begin{matrix}
 
 This also holds for taking common factors out of matrices.
 
-#### Matrix multiplication
+### Matrix multiplication
 
 To multiply two matrices, pairwise multiply the rows of the left matrix by the columns of the right.
 

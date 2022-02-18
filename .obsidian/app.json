@@ -4,7 +4,7 @@
   "fileSortOrder": "alphabetical",
   "promptDelete": false,
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,

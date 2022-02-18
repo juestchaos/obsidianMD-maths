@@ -1,5 +1,5 @@
 ---
-tags: [stub]
+tags: [stub physics]
 aliases: [Newton's Laws]
 ---
 # Newton's Laws of Motion

@@ -1,6 +1,18 @@
 {
-  "userAdmonitions": {},
-  "syntaxHighlight": false,
+  "userAdmonitions": {
+    "questions": {
+      "type": "questions",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "award",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Possible questions",
+      "injectColor": true
+    }
+  },
+  "syntaxHighlight": true,
   "copyButton": false,
   "version": "6.5.1",
   "autoCollapse": false,

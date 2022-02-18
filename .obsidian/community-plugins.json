@@ -9,5 +9,9 @@
   "obsidian-hider",
   "obsidian-smart-typography",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-excalidraw-plugin",
+  "persistent-graph",
+  "obsidian-linter",
+  "obsidian-git"
 ]

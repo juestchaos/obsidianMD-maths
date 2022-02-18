@@ -4,30 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a02fde5ae50893c0",
+        "id": "76e76a52b5e2d925",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Knowledge/Acceleration (stub).md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7414c13462831078",
+    "id": "a99b1a79059269f8",
     "type": "split",
     "children": [
       {
-        "id": "0b55ff828674115c",
+        "id": "158e05e38b083c79",
         "type": "tabs",
-        "dimension": 73.73540856031128,
         "children": [
           {
-            "id": "fae5df55924f4cbe",
+            "id": "902aec80a61154aa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,13 +31,13 @@
             }
           },
           {
-            "id": "27fff0d4287e7b04",
+            "id": "5906b38edeec4279",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -50,45 +46,34 @@
             }
           }
         ]
-      },
-      {
-        "id": "ec34e76d7445bfda",
-        "type": "tabs",
-        "dimension": 26.26459143968872,
-        "children": [
-          {
-            "id": "5dc5f3e7aa28c5d5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 198
+    "width": 259
   },
   "right": {
-    "id": "44eb25f8d7f1527e",
+    "id": "b113a5c30fb4f876",
     "type": "split",
     "children": [
       {
-        "id": "4cdbed5abba76617",
+        "id": "7942caee7fcac35c",
         "type": "tabs",
-        "dimension": 62.38390092879257,
+        "dimension": 59.691629955947135,
         "children": [
           {
-            "id": "b80fa47239ac13db",
+            "id": "d71a25d0cb404753",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "88304b745e1f9a92",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Acceleration (stub).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,39 +85,48 @@
             }
           },
           {
-            "id": "c3bc71b0037c931a",
+            "id": "f63feeccc9c51e52",
             "type": "leaf",
             "state": {
-              "type": "stats-tracker",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "252df4c6e5070a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           },
           {
-            "id": "013800e2ef275e81",
+            "id": "439f15ddb59c5c1d",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Knowledge/Acceleration (stub).md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "1b0a25d9c5d8f1ee",
+        "id": "8dc4e6732a0c8843",
         "type": "tabs",
-        "dimension": 37.61609907120743,
+        "dimension": 40.308370044052865,
         "children": [
           {
-            "id": "7985da83fe3e8667",
+            "id": "a6cc96ee05d887d0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Acceleration (stub).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -140,19 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.44956970214844
+    "width": 239.123046875
   },
-  "active": "a02fde5ae50893c0",
+  "active": "76e76a52b5e2d925",
   "lastOpenFiles": [
-    "Knowledge/Acceleration (stub).md",
-    "asdf;lkj.md",
-    "Knowledge/Integration.md",
-    "Knowledge/Fields (physics).md",
-    "Knowledge/Gravity.md",
-    "Knowledge/Vectors.md",
-    "Knowledge/Derivative.md",
-    "School/MAS IA1.md",
-    "School/MAS Unit 1+2 exam revision.md",
-    "Knowledge/Gaussian elimination.md"
+    "Knowledge/Vector cross product.md",
+    "Knowledge/Shapes in 3D.md",
+    "Attachments/This shouldn't show up in graph view.md",
+    "Knowledge/Locii.md",
+    "Attachments/Drawing 2022-02-17 10.27.09.excalidraw.md",
+    "School/ENG IA1 - Literary Article.md",
+    "Attachments/Drawing 2022-02-15 09.24.20.excalidraw.md",
+    "Knowledge/Solenoids.md",
+    "Knowledge/Snell's Law.md",
+    "Knowledge/Area between curves.md"
   ]
 }

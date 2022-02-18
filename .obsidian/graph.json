@@ -6,17 +6,74 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#incomplete",
+      "color": {
+        "a": 1,
+        "rgb": 4343377
+      }
+    },
+    {
+      "query": "tag:#stub",
+      "color": {
+        "a": 1,
+        "rgb": 16706286
+      }
+    },
+    {
+      "query": "tag:#specialist",
+      "color": {
+        "a": 1,
+        "rgb": 15325573
+      }
+    },
+    {
+      "query": "tag:methods",
+      "color": {
+        "a": 1,
+        "rgb": 11713918
+      }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 7642229
+      }
+    },
+    {
+      "query": "tag:#english",
+      "color": {
+        "a": 1,
+        "rgb": 8149669
+      }
+    },
+    {
+      "query": "tag:#music",
+      "color": {
+        "a": 1,
+        "rgb": 14442286
+      }
+    },
+    {
+      "query": "tag:meta",
+      "color": {
+        "a": 1,
+        "rgb": 16371698
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.30625,
+  "lineSizeMultiplier": 3.49609375,
   "collapse-forces": false,
-  "centerStrength": 0.655049476135041,
-  "repelStrength": 13.1650174621653,
+  "centerStrength": 0.278300382653061,
+  "repelStrength": 5.68718112244898,
   "linkStrength": 1,
-  "linkDistance": 218,
-  "scale": 0.8672720180720116,
-  "close": true
+  "linkDistance": 191,
+  "scale": 1.303411662848888,
+  "close": false
 }

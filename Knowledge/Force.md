@@ -1,4 +1,9 @@
+---
+aliases: 
+tags: physics
+---
 # Force
+
 A force is an influence that can change the motion of an object. This can be intuitively thought of as a push or a pull on the object.
 
 Force is measured in Newtons, and has the base [[SI Units]] of $\text{Kg} \cdot \text{ms}^2$.
