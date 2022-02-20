@@ -7,7 +7,7 @@ tags: specialist
 
 ## The identity matrix
 
-The identity matrix is a square [[matrix]] with 1s along its top-to-bottom diagonal and all other elements being 0. The 2x2 and 3x3 identity matrices are
+The identity [[Matrices|matrix]] is a square matrix with 1s along its top-to-bottom diagonal and all other elements being 0. The 2x2 and 3x3 identity matrices are
 
 $$I_{2\times 2}=\left[\begin{matrix}1 & 0 \\ 0 & 1\end{matrix}\right] $$ $$ I_{3 \times 3} = \left[\begin{matrix}1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{matrix}\right]$$
 
