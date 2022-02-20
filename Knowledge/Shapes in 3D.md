@@ -21,7 +21,7 @@ Types of question:
 
 # Lines
 
-A line is defined by a point which lies on it and a direction vector $\vec d$ which is parallel to the line, expressed as:
+A line is defined by a point which lies on it and a direction [[Vectors|vector]] $\vec d$ which is parallel to the line, expressed as:
 
 $$ \left[\begin{array} xx \\ y \\ z \end{array}\right] = \left[\begin{array} xx_0 \\ y_0 \\ z_0 \end{array}\right] + \lambda \vec d$$
 
@@ -34,7 +34,7 @@ For any given points $A$ and $B$, find the vector between them $\vec{AB}$ and ex
 $$ P = A + \lambda \vec{AB} $$
 ```ad-question
 - find the points that make a line with the vector $\vec d$
-	- This is done by writing the vector equation of the line as a matrix sum and finding the $\lambda$ that makes the equation true, 
+	- This is done by writing the vector equation of the line as a [[Matrices|matrix]] sum and finding the $\lambda$ that makes the equation true, 
 ```
 
 The property of lines in 2D that they will always intersect an axis unless they are parallel does not exist in 3D, instead they will intersect planes.
