@@ -17,17 +17,15 @@ Let us now define a Leslie matrix $L$ using the following information:
 
 - $c_n$, the average number of children a member of age group $n$ will have in the time period
 - $s_n$, the average number of members of group $n$ who will survive the time period and become members of group $n+1$
+
 $$ L = \begin{bmatrix}
-
 c_1 & c_2 & c_3 &\cdots & c_n \\
-
 s_1 & 0 & 0 & \cdots &  0 \\
-
 0 & s_2 & 0 & \cdots & 0 \\
 0 & 0 & s_3 & \cdots & 0\\
 \vdots & \vdots & \vdots &\ddots & 0 \\
 0 & 0 & \cdots & s_n & 0
-\end{bmatrix}$$
+\end{bmatrix} $$
 
 To find the population matrix $P_1$ after the first period, simply multiply the Leslie matrix by $P_0$:
 
@@ -45,4 +43,4 @@ $$ P_k = LP_{k-1}$$
 
 However, since this is just repeated multiplication by $L$, this can also be expressed as
 
-$$ P_k = L^kP_0 $$ ^[see [[matrix exponentiation]]]
+$$ P_k = L^kP_0 $$

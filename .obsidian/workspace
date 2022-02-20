@@ -21,6 +21,7 @@
       {
         "id": "158e05e38b083c79",
         "type": "tabs",
+        "dimension": 62.65320836337419,
         "children": [
           {
             "id": "902aec80a61154aa",
@@ -43,6 +44,21 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0750d3aeb88fbe0f",
+        "type": "tabs",
+        "dimension": 37.34679163662581,
+        "children": [
+          {
+            "id": "63323c986b0660cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ]
@@ -110,17 +126,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "63323c986b0660cf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "8dc4e6732a0c8843",
@@ -134,7 +142,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -146,6 +154,8 @@
   },
   "active": "76e76a52b5e2d925",
   "lastOpenFiles": [
+    "Magnets.md",
+    "Knowledge/Leslie matrices.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "School/DIS IA1.md",
@@ -153,8 +163,6 @@
     "Temp/2021 quiz questions.md",
     "Knowledge/Vector cross product.md",
     "Knowledge/Vectors.md",
-    "Attachments/This shouldn't show up in graph view.md",
-    "Knowledge/Shapes in 3D.md",
-    "Knowledge/Locii.md"
+    "Attachments/This shouldn't show up in graph view.md"
   ]
 }

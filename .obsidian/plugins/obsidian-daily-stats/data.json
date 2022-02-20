@@ -23,28 +23,17 @@
     "2022/1/15": 261,
     "2022/1/16": 254,
     "2022/1/17": 362,
-    "2022/1/18": 4
+    "2022/1/18": 4,
+    "2022/1/20": 78
   },
   "todaysWordCount": {
-    "Knowledge/Shapes in 3D.md": {
-      "initial": 240,
-      "current": 244
+    "Knowledge/Leslie matrices.md": {
+      "initial": 316,
+      "current": 313
     },
-    "Knowledge/Vector cross product.md": {
-      "initial": 164,
-      "current": 163
-    },
-    "Knowledge/Area between curves.md": {
-      "initial": 243,
-      "current": 181
-    },
-    "Knowledge/Vectors.md": {
-      "initial": 160,
-      "current": 155
-    },
-    "README.md": {
-      "initial": 71,
-      "current": 60
+    "Magnets.md": {
+      "initial": 3,
+      "current": 81
     }
   }
 }

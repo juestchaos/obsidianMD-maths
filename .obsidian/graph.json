@@ -18,7 +18,7 @@
       "query": "tag:#stub",
       "color": {
         "a": 1,
-        "rgb": 16706286
+        "rgb": 6908265
       }
     },
     {
@@ -70,8 +70,8 @@
   "nodeSizeMultiplier": 1.30625,
   "lineSizeMultiplier": 3.49609375,
   "collapse-forces": false,
-  "centerStrength": 0.372528698979592,
-  "repelStrength": 8.9875637755102,
+  "centerStrength": 0.44515306122449,
+  "repelStrength": 9.95376275510204,
   "linkStrength": 1,
   "linkDistance": 239,
   "scale": 0.6520171740799582,
