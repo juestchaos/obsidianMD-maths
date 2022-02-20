@@ -15,99 +15,146 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "811cbf43d54c6e9f",
-    "type": "mobile-drawer",
+    "id": "a99b1a79059269f8",
+    "type": "split",
     "children": [
       {
-        "id": "0b9cb0909f6ceafc",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7c2e322a68b3bb28",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "158e05e38b083c79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "902aec80a61154aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5906b38edeec4279",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "a23f7cbbeaabcf1b",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 259
   },
   "right": {
-    "id": "834b4a62f3fc3edf",
-    "type": "mobile-drawer",
+    "id": "b113a5c30fb4f876",
+    "type": "split",
     "children": [
       {
-        "id": "2b1f4a838b463b6b",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+        "id": "7942caee7fcac35c",
+        "type": "tabs",
+        "dimension": 59.691629955947135,
+        "children": [
+          {
+            "id": "d71a25d0cb404753",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "88304b745e1f9a92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f63feeccc9c51e52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "252df4c6e5070a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "439f15ddb59c5c1d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "63323c986b0660cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        }
+        ],
+        "currentTab": 5
       },
       {
-        "id": "cac2fc29e23c479e",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": false
+        "id": "8dc4e6732a0c8843",
+        "type": "tabs",
+        "dimension": 40.308370044052865,
+        "children": [
+          {
+            "id": "a6cc96ee05d887d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "ed5a733c16be031b",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 239.123046875
   },
   "active": "76e76a52b5e2d925",
   "lastOpenFiles": [
-    "Knowledge/Identity and inverse matrices.md",
-    "Knowledge/Electromagnetism.md",
-    "Knowledge/Shapes in 3D.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "School/DIS IA1.md",
-    "conflict-files-obsidian-git.md",
     "Knowledge/Area between curves.md",
     "Temp/2021 quiz questions.md",
     "Knowledge/Vector cross product.md",
-    "Knowledge/Vectors.md"
+    "Knowledge/Vectors.md",
+    "Attachments/This shouldn't show up in graph view.md",
+    "Knowledge/Shapes in 3D.md",
+    "Knowledge/Locii.md"
   ]
 }
