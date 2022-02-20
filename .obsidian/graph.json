@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "vectors",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 8.9875637755102,
   "linkStrength": 1,
   "linkDistance": 239,
-  "scale": 0.4049037563265393,
+  "scale": 1.4970838184711954,
   "close": false
 }
