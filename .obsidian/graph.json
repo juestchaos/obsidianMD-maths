@@ -1,10 +1,6 @@
 {
   "collapse-filter": false,
-<<<<<<< HEAD
-  "search": "vectors",
-=======
-  "search": "Vector",
->>>>>>> origin/main
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -78,11 +74,6 @@
   "repelStrength": 8.9875637755102,
   "linkStrength": 1,
   "linkDistance": 239,
-<<<<<<< HEAD
-  "scale": 1.4970838184711954,
+  "scale": 0.45727681636234624,
   "close": false
-=======
-  "scale": 0.9721011180553405,
-  "close": true
->>>>>>> origin/main
 }
