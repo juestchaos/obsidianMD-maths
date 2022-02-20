@@ -24,7 +24,7 @@
     "2022/1/16": 254,
     "2022/1/17": 362,
     "2022/1/18": 4,
-    "2022/1/20": 78
+    "2022/1/20": 126
   },
   "todaysWordCount": {
     "Knowledge/Leslie matrices.md": {
@@ -34,6 +34,34 @@
     "Magnets.md": {
       "initial": 3,
       "current": 81
+    },
+    "Knowledge/Vector cross product.md": {
+      "initial": 163,
+      "current": 163
+    },
+    "Knowledge/Radians.md": {
+      "initial": 45,
+      "current": 46
+    },
+    "Knowledge/Kepler's laws of planetary motion.md": {
+      "initial": 119,
+      "current": 118
+    },
+    "Knowledge/Electromagnetism.md": {
+      "initial": 20,
+      "current": 33
+    },
+    "Charge.md": {
+      "initial": 3,
+      "current": 4
+    },
+    "Electric charge.md": {
+      "initial": 4,
+      "current": 36
+    },
+    "Knowledge/Electric potential.md": {
+      "initial": 50,
+      "current": 51
     }
   }
 }

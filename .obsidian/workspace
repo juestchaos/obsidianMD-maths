@@ -7,8 +7,11 @@
         "id": "76e76a52b5e2d925",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Knowledge/Electric potential.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge/Electric potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge/Electric potential.md"
+              }
             }
           },
           {
@@ -141,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge/Electric potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,15 +161,15 @@
   },
   "active": "76e76a52b5e2d925",
   "lastOpenFiles": [
+    "Knowledge/Electric potential.md",
+    "Electric charge.md",
+    "Knowledge/Electromagnetism.md",
+    "Knowledge/Kepler's laws of planetary motion.md",
+    "Knowledge/Radians.md",
+    "Knowledge/Vector cross product.md",
+    "School/MAS IA1.md",
     "Magnets.md",
     "Knowledge/Leslie matrices.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "School/DIS IA1.md",
-    "Knowledge/Area between curves.md",
-    "Temp/2021 quiz questions.md",
-    "Knowledge/Vector cross product.md",
-    "Knowledge/Vectors.md",
-    "Attachments/This shouldn't show up in graph view.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
