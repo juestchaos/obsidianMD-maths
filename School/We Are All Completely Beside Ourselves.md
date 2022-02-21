@@ -15,6 +15,7 @@ Rosemary references a lot of chimp researchers and research chimps:
 She also references a number of behavioural researchers:
 
 - Sigmund Freud
+- The Kelloggs
 -
 
 # Literary bits
@@ -28,8 +29,22 @@ Rosemary is the most relatable first-person narrator I have come across—that�
 Rosemary’s father reflects Karen Joy Fowler’s a lot: spends time fly-fishing, is obsessed with mathematical ideas (p. 18)
 
 ## Memory
-The unreliability of memory is discussed at multiple points throughout the book; how we can reconstruct our memories without noticing and then be incredibly confident that memory we now remember is the one true original, meaning that all long-term memories must be treated with a degree of caution, since we cannot determine whether they have been altered or not.
+
 This could be an interesting idea for an article based on [[truth]].
+
+Rosemary discusses the fickleness of memory at multiple points throughout the book; how we can reconstruct our memories without noticing and then be incredibly confident that memory we now remember is the one true original, meaning that all long-term memories must be treated with a degree of caution, since we cannot determine whether they have been altered or not.
+
+### The cat
+
+Rosemary tells the story of her dad running over a cat which refused to get out of the way of the car. She says that she is absolutely certain this happened:
+
+> To this day, I can feel the bump of the tire over the cat’s body (p. 91)
+
+and simultaneously is certain that it didn’t:
+
+> And to this day I am certain in my mind that it never happened. Think of it as my own personal Schrödinger’s cat. (p. 91)
+
+Grandma Donna also reassures her that her father would never do such a thing, despite her apparently taking any opportunity to find the worst in 
 
 ## Further reading
 *Utopia*, Thomas More
