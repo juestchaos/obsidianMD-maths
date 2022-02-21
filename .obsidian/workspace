@@ -63,12 +63,12 @@
     "type": "mobile-drawer",
     "children": [
       {
-<<<<<<< HEAD
         "id": "e69876ff71400ef0",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "We Are All Completely Beside Ourselves.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -76,94 +76,18 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-=======
-        "id": "7942caee7fcac35c",
-        "type": "tabs",
-        "dimension": 59.691629955947135,
-        "children": [
-          {
-            "id": "d71a25d0cb404753",
-            "type": "leaf",
-            "state": {
-              "type": "stats-tracker",
-              "state": {}
-            }
-          },
-          {
-            "id": "88304b745e1f9a92",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "We Are All Completely Beside Ourselves.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "f63feeccc9c51e52",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "252df4c6e5070a8f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "We Are All Completely Beside Ourselves.md"
-              }
-            }
-          },
-          {
-            "id": "439f15ddb59c5c1d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
->>>>>>> bd8b4094c99609681ef7ada8a295ccd965728bbe
           }
         }
       },
       {
-<<<<<<< HEAD
         "id": "57da9844ef56b371",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "We Are All Completely Beside Ourselves.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-=======
-        "id": "8dc4e6732a0c8843",
-        "type": "tabs",
-        "dimension": 40.308370044052865,
-        "children": [
-          {
-            "id": "a6cc96ee05d887d0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "We Are All Completely Beside Ourselves.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
->>>>>>> bd8b4094c99609681ef7ada8a295ccd965728bbe
           }
         }
       },
@@ -172,7 +96,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "We Are All Completely Beside Ourselves.md"
+          }
         }
       }
     ],
@@ -180,25 +106,15 @@
   },
   "active": "76e76a52b5e2d925",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "We Are All Completely Beside Ourselves.md",
     "Knowledge/Vectors.md",
     "Knowledge/Matrices.md",
     "Knowledge/De Moivre's Theorem.md",
-=======
-    "We Are All Completely Beside Ourselves.md",
-    "School/Truth.md",
->>>>>>> bd8b4094c99609681ef7ada8a295ccd965728bbe
     "Knowledge/Electric potential.md",
     "Electric charge.md",
     "Knowledge/Electromagnetism.md",
     "Knowledge/Kepler's laws of planetary motion.md",
     "Knowledge/Radians.md",
-    "Knowledge/Vector cross product.md",
-<<<<<<< HEAD
-    "School/MAS IA1.md"
-=======
-    "School/MAS IA1.md",
-    "Magnets.md"
->>>>>>> bd8b4094c99609681ef7ada8a295ccd965728bbe
+    "Knowledge/Vector cross product.md"
   ]
 }
