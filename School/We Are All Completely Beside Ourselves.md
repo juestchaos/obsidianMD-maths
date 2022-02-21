@@ -44,7 +44,11 @@ and simultaneously is certain that it didn’t:
 
 > And to this day I am certain in my mind that it never happened. Think of it as my own personal Schrödinger’s cat. (p. 91)
 
-Grandma Donna also reassures her that her father would never do such a thing, despite her apparently taking any opportunity to find the worst in 
+Grandma Donna also reassures her that her father would never do such a thing, despite her apparently taking any opportunity to find the worst in Rosemary’s father. Rosemary herself also rationalises the fact that he couldn’t have run over the cat:
+
+> He would never run over a cat unless there was something to be learned by doing so.
+
+Does this mean that her memory is accurate, and he was conducting an experiment, even one conceived mere moments before, or was the memory fabricated and he didn’t
 
 ## Further reading
 *Utopia*, Thomas More
