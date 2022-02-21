@@ -28,7 +28,8 @@ Rosemary is the most relatable first-person narrator I have come across—that�
 Rosemary’s father reflects Karen Joy Fowler’s a lot: spends time fly-fishing, is obsessed with mathematical ideas (p. 18)
 
 ## Memory
-The unreliability of memory is discussed at multiple points throughout the book; how we can reconstruct our memories without noticing and then be incredibly confident that the reconstructed memory 
+The unreliability of memory is discussed at multiple points throughout the book; how we can reconstruct our memories without noticing and then be incredibly confident that memory we now remember is the one true original, meaning that all long-term memories must be treated with a degree of caution, since we cannot determine whether they have been altered or not.
+This could be an interesting idea for an article based on [[truth]].
 
 ## Further reading
 *Utopia*, Thomas More

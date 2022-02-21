@@ -11,11 +11,7 @@
       "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": false,
       "Date Created": true,
       "Date Created Key": "date created",
-<<<<<<< HEAD
       "Date Modified": false,
-=======
-      "Date Modified": true,
->>>>>>> origin/main
       "Date Modified Key": "date modified",
       "Format": "dddd, MMMM Do YYYY, h:mm:ss a"
     },
@@ -24,11 +20,7 @@
       "Title Key": "title"
     },
     "Header Increment": {
-<<<<<<< HEAD
       "Heading levels should only increment by one level at a time": true
-=======
-      "Heading levels should only increment by one level at a time": false
->>>>>>> origin/main
     },
     "File Name Heading": {
       "Inserts the file name as a H1 heading if no H1 heading exists.": true
@@ -47,11 +39,7 @@
       "Re-indexes footnote keys and footnote, based on the order of occurence (NOTE: This rule deliberately does *not* preserve the relation between key and footnote, to be able to re-index duplicate keys.)": false
     },
     "Footnote after Punctuation": {
-<<<<<<< HEAD
       "Ensures that footnote references are placed after punctuation, not before.": false
-=======
-      "Ensures that footnote references are placed after punctuation, not before.": true
->>>>>>> origin/main
     },
     "Remove Multiple Spaces": {
       "Removes two or more consecutive spaces. Ignores spaces at the beginning and ending of the line. ": true
@@ -69,19 +57,11 @@
       "Replaces three consecutive dots with an ellipsis.": false
     },
     "Trailing spaces": {
-<<<<<<< HEAD
       "Removes extra spaces after every line.": true,
       "Two Space Linebreak": false
     },
     "Heading blank lines": {
       "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": false,
-=======
-      "Removes extra spaces after every line.": false,
-      "Two Space Linebreak": false
-    },
-    "Heading blank lines": {
-      "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": true,
->>>>>>> origin/main
       "Bottom": true
     },
     "Paragraph blank lines": {
@@ -94,17 +74,10 @@
       "Removes leading and trailing blank lines in the YAML front matter.": true
     },
     "Consecutive blank lines": {
-<<<<<<< HEAD
       "There should be at most one consecutive blank line.": true
     },
     "Convert Spaces to Tabs": {
       "Converts leading spaces to tabs.": false,
-=======
-      "There should be at most one consecutive blank line.": false
-    },
-    "Convert Spaces to Tabs": {
-      "Converts leading spaces to tabs.": true,
->>>>>>> origin/main
       "Tabsize": "4"
     },
     "Line Break at Document End": {
