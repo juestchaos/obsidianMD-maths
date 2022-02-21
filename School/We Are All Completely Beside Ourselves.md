@@ -56,7 +56,7 @@ She also references a number of behavioural researchers:
 - Sigmund Freud
 	- Self-proclaimed psychoanalyst who was completely bonkers—recommended cocaine to treat headaches
 - The Kelloggs
-	- First person to run a
+	- First person to run an experiment raising a chimpanzee alongside a child. Experiment ran for nine months, and the chimpanzee Gua exhibited faster development than the child, but the experiment was ended when the human baby began mimicking sounds that Gua made.
 -
 
 # Eng ia1 bits
