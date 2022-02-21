@@ -2,5 +2,5 @@
 .trash/
 .DS_Store
 
-.vaults-stats
+.vault-stats
 .obsidian/graph.json
