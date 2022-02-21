@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "We Are All Completely Beside Ourselves.md",
+            "file": "School/We Are All Completely Beside Ourselves.md",
             "mode": "source"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "We Are All Completely Beside Ourselves.md",
+                "file": "School/We Are All Completely Beside Ourselves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "We Are All Completely Beside Ourselves.md"
+                "file": "School/We Are All Completely Beside Ourselves.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "We Are All Completely Beside Ourselves.md",
+                "file": "School/We Are All Completely Beside Ourselves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
   },
   "active": "76e76a52b5e2d925",
   "lastOpenFiles": [
-    "We Are All Completely Beside Ourselves.md",
+    "School/We Are All Completely Beside Ourselves.md",
     "School/Truth.md",
     "Knowledge/Electric potential.md",
     "Electric charge.md",
