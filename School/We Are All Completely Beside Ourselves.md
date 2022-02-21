@@ -21,7 +21,7 @@ Rosemary’s father reflects Karen Joy Fowler’s a lot: spends time fly-fishing
 
 ## Memory
 
-This could be an interesting idea for an article based on [[truth]]
+This would be an interesting idea for an article based on [[truth]]
 
 Rosemary discusses the fickleness of memory at multiple points throughout the book; how we can reconstruct our memories without noticing and then be incredibly confident that memory we now remember is the one true original, meaning that all long-term memories must be treated with a degree of caution, since we cannot determine whether they have been altered or not.
 
