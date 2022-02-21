@@ -6,17 +6,6 @@ tags:
 - english
 author: Karen Joy Fowler
 ---
-# Scientific bits
-
-Rosemary references a lot of chimp researchers and research chimps:
-
-- David and Anne James Premack
-
-She also references a number of behavioural researchers:
-
-- Sigmund Freud
-- The Kelloggs
--
 
 # Literary bits
 
@@ -48,11 +37,22 @@ Grandma Donna also reassures her that her father would never do such a thing, de
 
 > He would never run over a cat unless there was something to be learned by doing so.
 
-Does this mean that her memory is accurate, and he was conducting an experiment, even one conceived mere moments before, or was the memory fabricated and he didn’t
+Does this mean that her memory is accurate, and he was conducting an experiment, even one conceived mere moments before, or was the memory fabricated and he didn’t ever run over a cat?
 
 ## Further reading
 *Utopia*, Thomas More
 
+# Scientific bits
+
+Rosemary references a lot of chimp researchers and research chimps:
+
+- David and Anne James Premack
+
+She also references a number of behavioural researchers:
+
+- Sigmund Freud
+- The Kelloggs
+-
 # Eng ia1 bits
 
 Both Rosemary and Olive have parents who hide an addiction from one another (Olive’s mum: smoking, Rosemary’s dad: drinking). Links to [[truth]]—lack of honesty between parents creates a strained dynamic. Rosemary says as much:
