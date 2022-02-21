@@ -1,7 +1,0 @@
-{
-  "defaultEnvironment": "multline",
-  "customEnvironments": [
-    "array",
-    "align"
-  ]
-}
