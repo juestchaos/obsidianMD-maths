@@ -1,5 +1,8 @@
 ---
-aliases: 
-tags: 
+aliases:
+- Data test
+tags:
+- physics
 ---
-# Phy ia1
+
+# Dataset 1 - projectile motion
