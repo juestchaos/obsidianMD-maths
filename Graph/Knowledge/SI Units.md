@@ -13,15 +13,15 @@ Name | Symbol | Unit
 -----|--------------|---------------
 Volt| V | electrical potential
 Ampere| A | electrical current
-Mass\|Kilogram| Kg | mass
+Kilogram | Kg| mass
 Second| s | time
-Metre| m | length
-[[Kelvin]] | K | temperature
-[[Mole]] | mol | amount of substance
-[[Candela]] | cd | luminous intensity
+[[Metre]]| m | length
+Kelvin| K | temperature
+Mole| mol | amount of substance
+Candela| cd | luminous intensity
 
 ## Derived units
 Name | Symbol | Measure | Derived SI units
 -----|--------|---------|-----------------
-[[Force\|Newton]] | N | Mass | $\text{Kg}\cdot \text{ms}^{-2}$
+[[Force\|Newton]] | N | Force | $\text{Kg}\cdot \text{ms}^{-2}$
 [[Joules\|Joule]] | J | Energy | $\text{Kg}\cdot \text m^2 \text s^{-2}$
