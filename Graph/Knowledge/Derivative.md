@@ -36,7 +36,7 @@ $$f'(x) = 2x $$
 A simplified way of finding the derivative of a non-linear function, rather than deriving from first principles, is to use the _power rule_, which states that the derivative of a non-linear function is the sum of the derivatives of its terms, and that for a term $ax^n$, its derivative is $anx^{n-1}$. The opposite of this process is [[Integration#Anti-differentiation indefinite integrals|integration]]
 
 ## Chain rule
-Some [[functions]] can be expressed as two functions nested inside one another, such as
+Some [[Functions]] can be expressed as two functions nested inside one another, such as
 $$f(x) = (2x+2)^2 $$
 This can be represented as two functions $g(x) = x^2$ and $h(x) = 2x+2$.
 $$f(x) = g(h(x)) $$

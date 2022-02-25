@@ -6,7 +6,7 @@ tags: [index]
 # Thinking on Unit 1 + 2 exams
 ### Unit 1
 CF skills from unit 1:
-- [[vectors]]
+- [[Vectors]]
 	- [[vector dot product|dot product]]
 - 
 
@@ -36,4 +36,4 @@ One CF skill I've forgotten (well, I didn't really know it to begin with): [[For
 - [[Inverse trigonometric functions]]
 - [[absolute value functions]]
 - [[Matrix transformations|transformation matrices]], especially rotations
-- Angle between two [[vectors]]
+- Angle between two [[Vectors]]

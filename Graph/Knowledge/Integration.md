@@ -1,7 +1,7 @@
 #methods
 
 # Anti-differentiation (indefinite integrals)
-This process is used to find the [[Functions|function]] whose [[derivative]] is inside the indefinite integral.
+This process is used to find the [[Functions|function]] whose [[Derivative]] is inside the indefinite integral.
 $$ \int f'(x)\ dx = f(x) + c $$
 
 the $+\ c$ term is due to the fact that vertical translation of a function does not affect its derivative, meaning that when integrated again this information is still lost. To find this $c$ term a point must be given to substitute back into $f(x)$.

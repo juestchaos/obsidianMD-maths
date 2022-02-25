@@ -15,7 +15,7 @@ f(x) & = a_0x^0+a_1x^1+a_2x^2 + \cdots + a_nx^n
 \end{align}$$
 This consists only of multiples of $x$ raised to a positive integer power. In this example, $n$ is referred to as the _power_ or _degree_ of the polynomial.
 
-By the [[Fundamental Theorem of Algebra]], a polynomial of order $n$ has $n$ roots over the [[complex numbers]] $\Bbb C$.^[1 Note: QCAA Mathematical Methods does not acknowledge the existence of complex numbers, meaning that it says some functions have less than $n$ solutions.]
+By the [[Fundamental Theorem of Algebra]], a polynomial of order $n$ has $n$ roots over the [[Complex Numbers]] $\Bbb C$.^[1 Note: QCAA Mathematical Methods does not acknowledge the existence of complex numbers, meaning that it says some functions have less than $n$ solutions.]
 
 ### Trigonometric functions
 See [[Trigonometric functions]]
