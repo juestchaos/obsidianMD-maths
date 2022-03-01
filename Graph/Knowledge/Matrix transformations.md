@@ -1,10 +1,14 @@
+---
+aliases: 
+tags: specialist
+---
 #todo Add rotation
 
-# Matrix Transformations
+# Matrix transformations
 
 ## Linear transformations
 
-Transforming a matrix 
+Transforming a matrix
 
 ### Reflection
 
@@ -44,7 +48,7 @@ $$D_k=\left[\begin{matrix} k & 0 \\ 0 & k\end{matrix}\right] = kI$$
 
 ### Translation
 
-A translation is not a linear transformation since it results in the origin moving. 
+A translation is not a linear transformation since it results in the origin moving.
 
 $$\left[\begin{matrix}x'\\y'\end{matrix}\right] = \left[\begin{matrix}x\\y\end{matrix}\right] + \left[\begin{matrix}-3\\2\end{matrix}\right]$$
 
@@ -55,7 +59,7 @@ $$T_{a, b}=\left[\begin{matrix}a\\b\end{matrix}\right]$$
 Determine a matrix $L$ which
 
 1. Rotates by $\frac{\pi}{2}$
-2. 
+2.
 
 ### Area after a transformation
 
