@@ -14,3 +14,6 @@ A sense of belonging is crucial to our life satisfaction. Is above safety and be
 > Those who have a strong sense of belonging have the courage to be imperfect
 
 > Sticks in a bundle are unbreakable
+
+# Little Miss Sunshine
+LMS is about the journey of a group of 
