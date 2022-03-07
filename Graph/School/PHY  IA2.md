@@ -15,6 +15,8 @@ tags: physics
 		- Links to design of new experiment
 	- Predict new results (in general terms, e.g. $F\propto I$)
 	- Specific to previous or new expeirment
+	- References
+		- Recommended >2 in Rationale alone
 - Diagrams and data
 	- Only if needed to explain a point
 - Paragraphs
