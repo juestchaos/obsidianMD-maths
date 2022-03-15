@@ -44,4 +44,4 @@ If two lines’ direction vectors are not parallel,
 
 # Planes
 
-To determine the 
+A plane is defined 
