@@ -1,5 +1,5 @@
 ---
-tags: [stub, coreConcept]
+tags: methods, specialist
 aliases: [function]
 ---
 
