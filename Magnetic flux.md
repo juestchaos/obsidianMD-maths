@@ -10,4 +10,4 @@ $$ \phi = BA \cos\theta$$
 
 # Magnetic flux
 
-Magnetic flux ($\phi$) is the scalar equivalent of magnetic flux density
+Magnetic flux ($\phi$) is the vector equivalent of magnetic field strength
