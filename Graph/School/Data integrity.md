@@ -17,3 +17,11 @@ tags: digital
 - Use preventative measures such as redundancy, RAID, UPS
 - Use network or server monitoring systems
 - Ensure a Data Recovery and Business Continuity plan is in place
+
+## Data dissemination
+
+## Data storage
+
+## Data accuracy
+
+## Data ownership
