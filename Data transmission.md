@@ -133,7 +133,8 @@ The next line starts a `<book>` element:
 	<book category="cooking">
 ```
 
-The `<book>` elements have four child elements:
+The `<book>` element has four child elements:
+
 ```xml
 <bookstore>
 	<book category="cooking">
@@ -144,6 +145,7 @@ The `<book>` elements have four child elements:
 ```
 
 The next line ends the `<book>` element:
+
 ```xml
 </book>
 ```
@@ -151,4 +153,3 @@ The next line ends the `<book>` element:
 All elements must have a closing tag (`</tag>`)
 
 XML tags are case sensitive. The tag `<Letter>` is different to the tag `<letter>`.
-
