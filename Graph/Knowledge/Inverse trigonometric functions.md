@@ -4,6 +4,7 @@ tags: specialist
 ---
 
 Links: [[Trigonometric functions]]
+Disambiguation: *This page refers to the functions sec cosec and cotan. For arcsin, arccos and arctan see [[Trigonometric functions]]*
 
 # Inverse trigonometric functions
 
