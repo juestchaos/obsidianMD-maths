@@ -1,5 +1,5 @@
 ---
 aliases: 
-tags: specialist
+tags: specialist, stub
 ---
 # Implicit differentiation
