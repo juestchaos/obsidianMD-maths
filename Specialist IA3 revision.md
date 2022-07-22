@@ -29,3 +29,9 @@ tags: specialist
 - not crazy hard, just follow the formulaes
 - could be CF if it needs proper understanding and big think
 - good spot for a ‘justify your answer with mathematical reasoning bla bla’ question
+
+
+# Some hard questions in class (22 Jul)
+$$ \int \tan (x) \sec (x) dx $$
+$$ \int \frac{sin(x) + 1}{sin(x) - 1} $$
+$$ \int \frac{x^3+2x^2+1}{x^2 + 1} $$
